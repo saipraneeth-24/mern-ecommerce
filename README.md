@@ -1,4 +1,4 @@
-# Welcome to the Sabil Project
+# Welcome to the mern ecommerce
 #### This is a full-functional (Work in progress now)  ecommerce web application that is developed by using MERN (MongoDB, Express.js, React.js, and Node.js).
 
 ## Features:
